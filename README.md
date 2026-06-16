@@ -35,7 +35,7 @@ Tip: This README goes in a repo named exactly: partheevvv/partheevvv
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,express,java,cpp,postgres,mongodb,git,linux&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,next,express,java,cpp,postgres,mongodb,git,linux&perline=12" />
 </p>
 
 **Also worked with:** Clerk, NextAuth, Shadcn UI, Stream SDK, TanStack Query, SQL
